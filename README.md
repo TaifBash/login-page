@@ -37,6 +37,7 @@ Note: Don't forget RUN wamp server befor this step
 
 [ Starte program ] 
 Starte program with login page 
+
 ![image](https://user-images.githubusercontent.com/107805330/180984002-2d3e7386-8dd1-41b3-b69e-75b3949d9d8e.png)
 
 If user NOT enters the login data information corectle as same as on admin table on database (on MySQL), will display massege "Information is NOT correct (paswoors or User Name)".
@@ -58,6 +59,7 @@ On the serch page, the user enters the employee SSN. If user NOT enters employee
 if user enters employee's SSN corectle as same as on employee table, will display all information of emplyee user choois SSN
 
 ![image](https://user-images.githubusercontent.com/107805330/180988593-6cac5737-e4cb-4e27-80d8-09a3b91d5658.png)
+![image](https://user-images.githubusercontent.com/107805330/180990398-ea10664d-9257-469d-b367-8d16ff7c0c18.png)
 
 
 
