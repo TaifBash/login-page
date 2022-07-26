@@ -1,6 +1,10 @@
 # login-page
-
-Step1: Do connection with MySQL to create database "projectDB2" and two tables "employee" and "admin".
+used:
+ - Python
+ - Php
+ - HTML
+ - SQL
+Step1: Do by Python connection with MySQL to create database "projectDB2" and two tables "employee" and "admin".
 employee teble has information of all employee work in compane 
 admin table has user name and password of users has acsess use
 ![image](https://user-images.githubusercontent.com/107805330/180975242-e56ef46d-4744-4660-8395-9e6a8d7b3561.png)
