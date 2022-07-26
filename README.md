@@ -59,8 +59,7 @@ On the serch page, the user enters the employee SSN. If user NOT enters employee
 if user enters employee's SSN corectle as same as on employee table, will display all information of emplyee user choois SSN
 
 ![image](https://user-images.githubusercontent.com/107805330/180988593-6cac5737-e4cb-4e27-80d8-09a3b91d5658.png)
-![image](https://user-images.githubusercontent.com/107805330/180990398-ea10664d-9257-469d-b367-8d16ff7c0c18.png)
-
+![image](https://user-images.githubusercontent.com/107805330/180990625-8a7b0bb4-a711-4d3b-9099-03e6b8a612ea.png)
 
 
  
