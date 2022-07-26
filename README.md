@@ -22,8 +22,7 @@ Step3: Make by php connection with MySQL by queres and make two web pages by HTM
 firest page "Login":
 ![image](https://user-images.githubusercontent.com/107805330/180989064-e619ed58-8e15-40dc-a21f-eadf0ee997dc.png)
 second page: "Serch": 
-![image](https://user-images.githubusercontent.com/107805330/180981316-e109ab7b-b556-40b5-a20c-1667b1959ecd.png)
-
+![image](https://user-images.githubusercontent.com/107805330/180989182-3a9b8a99-586b-432f-9967-4cd553ccc53e.png)
 
 Step3: add two php file in "www" file on wamp server file 
 ![image](https://user-images.githubusercontent.com/107805330/180982375-d9c7e9e5-0368-4360-a8b2-3561e040b527.png)
