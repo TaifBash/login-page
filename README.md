@@ -20,8 +20,7 @@ employee table:
 
 Step3: Make by php connection with MySQL by queres and make two web pages by HTML becouse The php programme interacts with HTML.
 firest page "Login":
-![image](https://user-images.githubusercontent.com/107805330/180981237-24a1bc65-3ac4-4eaa-9169-7c22a3553fad.png)
-
+![image](https://user-images.githubusercontent.com/107805330/180989064-e619ed58-8e15-40dc-a21f-eadf0ee997dc.png)
 second page: "Serch": 
 ![image](https://user-images.githubusercontent.com/107805330/180981316-e109ab7b-b556-40b5-a20c-1667b1959ecd.png)
 
